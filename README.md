@@ -14,3 +14,7 @@ Tech: LLMs (Qwen, Fine-tuning via QLoRA & DPO), Architecture (RAG, RDF Knowledge
 #### Operational Flow
 
 <img width="1561" height="331" alt="Screenshot 2026-02-06 at 6 10 29 PM" src="https://github.com/user-attachments/assets/03db6d1b-c29e-46f8-9623-513710f99b87" />
+
+
+#### Finetune with RALA-DPO
+<img width="1370" height="557" alt="Screenshot 2026-02-06 at 9 08 52 PM" src="https://github.com/user-attachments/assets/d336f079-153b-4d09-8fda-62993c97af1d" />
